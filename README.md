@@ -1,4 +1,4 @@
-- 👋 Hi! My name is Zoe, I'm 23 years old, and I'm a full-stack developer with a proactive attitude. I studied in academies, and I'm also mainly self-taught. I get along very well with research and documentation.
+- 👋 Hi! My name is Zoe, I'm 24 years old, and I'm a full-stack developer with a proactive attitude. I studied in academies, and I'm also mainly self-taught. I get along very well with research and documentation.
   
 - 👀 I believe I have great potential in the logical realm of thinking, and I can see how this contributes to my field.
   
